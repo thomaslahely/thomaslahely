@@ -22,6 +22,7 @@
 🔹 **Programmation répartie** – Applications Client/Serveur, MQTT, RabbitMQ...  
 🔹 **Virtualisation & Docker** – Mise en place de machines virtuelles et conteneurs via Docker Desktop  
 🔹 **[Unity](https://github.com/thomaslahely/Unity)** – Projets de développement de jeux vidéo avec Unity3D :
+🔹 **[Simulation de fourmis multithreadée (C/ncurses)](ncurses-fourmis-simulation)** – Simulation graphique en terminal de fourmis se déplaçant dans une grille, avec `pthread`, `ncurses` et synchronisation par mutex. Chaque fourmi est un thread indépendant pouvant être ajouté, déplacé ou supprimé via clic souris.
 
 
 ## 📫 Me contacter
