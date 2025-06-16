@@ -25,7 +25,7 @@
 
 🔹 **[Simulation de fourmis multithreadée (C/ncurses)](https://github.com/thomaslahely/ncurses-fourmis-simulation)** – Simulation graphique en terminal de fourmis se déplaçant dans une grille, avec `pthread`, `ncurses` et synchronisation par mutex. Chaque fourmi est un thread indépendant pouvant être ajouté, déplacé ou supprimé via clic souris.
 
-🔹 **[Python & Deep Learning](https://github.com/thomaslahely/)** – Projets en Python incluant des expérimentations en deep learning et intelligence artificielle
+🔹 **[Python & Deep Learning](https://github.com/thomaslahely/KmeansFmeans)** – Projets en Python incluant des expérimentations en deep learning et intelligence artificielle
 
 ## 📫 Me contacter
 
