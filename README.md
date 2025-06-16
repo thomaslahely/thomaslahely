@@ -7,7 +7,7 @@
 
 💡 Enthousiaste en administration système, développement web et jeux vidéo  
 📚 Toujours en quête d’apprentissage et d’optimisation  
-🔍 Intéressé par la cybersécurité, les systèmes d’exploitation, la virtualisation et le développement  
+🔍 Intéressé par la cybersécurité, la big data, le data engineering, le data science, la virtualisation et le développement mobile 
 
 ## 📂 Mes principaux projets
 
