@@ -24,7 +24,7 @@
 🔹 **[Unity](https://github.com/thomaslahely/Unity)** – Projets de développement de jeux vidéo avec Unity3D 
 
 🔹 **[Simulation de fourmis multithreadée (C/ncurses)](ncurses-fourmis-simulation)** – Simulation graphique en terminal de fourmis se déplaçant dans une grille, avec `pthread`, `ncurses` et synchronisation par mutex. Chaque fourmi est un thread indépendant pouvant être ajouté, déplacé ou supprimé via clic souris.
-
+🔹 **Python & Deep Learning** – Projets en Python incluant des expérimentations en deep learning et intelligence artificielle
 
 ## 📫 Me contacter
 
