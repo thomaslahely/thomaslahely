@@ -18,7 +18,7 @@
 
 🔹 **Laravel** – Développement web avec le framework Laravel  
 🔹 **C++** – Projets et algorithmes en C++  
-🔹 **[RemoteLabz](https://github.com/thomaslahely/ReactNatQuest)**** – Contribution/test à une plateforme open source d’apprentissage pratique à distance, permettant aux enseignants de créer des environnements réseau simulés (QEMU, RabbitMQ, Docker…) pour les étudiants  
+🔹 **[RemoteLabz](https://github.com/thomaslahely/ProjetTER)** – Contribution/test à une plateforme open source d’apprentissage pratique à distance, permettant aux enseignants de créer des environnements réseau simulés (QEMU, RabbitMQ, Docker…) pour les étudiants  
 🔹 **Programmation répartie** – Applications Client/Serveur, MQTT, RabbitMQ...  
 🔹 **Virtualisation & Docker** – Mise en place de machines virtuelles et conteneurs via Docker Desktop  
 
